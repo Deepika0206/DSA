@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika0206/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Deepika0206/DSA/tree/master/0014-longest-common-prefix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepika0206/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Deepika0206/DSA/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/Deepika0206/DSA/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika0206/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepika0206/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
