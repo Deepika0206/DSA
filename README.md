@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika0206/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Deepika0206/DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Deepika0206/DSA/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Deepika0206/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepika0206/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Deepika0206/DSA/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/Deepika0206/DSA/tree/master/0904-fruit-into-baskets) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Deepika0206/DSA/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Deepika0206/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/Deepika0206/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
