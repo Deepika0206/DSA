@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepika0206/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Deepika0206/DSA/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/Deepika0206/DSA/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Deepika0206/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika0206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepika0206/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Deepika0206/DSA/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Deepika0206/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -59,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika0206/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepika0206/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Deepika0206/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika0206/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Deepika0206/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
