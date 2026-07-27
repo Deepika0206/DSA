@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepika0206/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepika0206/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Deepika0206/DSA/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Deepika0206/DSA/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Deepika0206/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepika0206/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika0206/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Deepika0206/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepika0206/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Deepika0206/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepika0206/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -70,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepika0206/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepika0206/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepika0206/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepika0206/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
