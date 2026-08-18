@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Deepika0206/DSA/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Deepika0206/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepika0206/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepika0206/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Deepika0206/DSA/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Deepika0206/DSA/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepika0206/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepika0206/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepika0206/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepika0206/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Deepika0206/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
